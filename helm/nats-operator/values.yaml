@@ -109,7 +109,7 @@ cluster:
 
   ## Nats version
   ## Image tags are listed here: https://hub.docker.com/_/nats?tab=tags
-  version: 1.4.1
+  version: 2.1.2
 
   ## Cluster Size
   size: 3
